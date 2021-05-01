@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Trupal Ukani! I am interested in Flutter!
+- 👋 Hi, I’m Trupal Ukani! I like to build apps using Flutter!
