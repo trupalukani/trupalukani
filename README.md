@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Trupal and I like to build apps!
+- 👋 Hi, I’m Trupal and I like to build!
